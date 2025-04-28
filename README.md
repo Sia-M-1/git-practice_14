@@ -2,4 +2,4 @@
 
 *28.04.2025*
 
-![Mem] (./hihihaha.jpg)
+![Mem](./hihihaha.jpg)
